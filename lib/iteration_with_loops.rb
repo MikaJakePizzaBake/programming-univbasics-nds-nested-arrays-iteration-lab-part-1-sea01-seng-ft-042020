@@ -8,7 +8,7 @@ def find_even_values(src)
  [23, 41]
 ]
 
-def find_even(src)
+def find_even_values(src)
   row_index = 0
   while row_index < src.count do
     element_index = 0
